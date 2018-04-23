@@ -1,1 +1,0 @@
-try { HaTsComplete(false, false) } catch (e) {}
