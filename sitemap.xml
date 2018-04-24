@@ -8,6 +8,12 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://905games.tk/phone/index.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://905games.tk/tablet/index.html"/>
     <image:image>
+      <image:loc>http://905games.tk/images/website%20(8%20of%209)2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://905games.tk/images/website%20(2%20of%209).jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://905games.tk/images/design.png</image:loc>
     </image:image>
     <image:image>
@@ -15,12 +21,6 @@
     </image:image>
     <image:image>
       <image:loc>http://905games.tk/images/responsive.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://905games.tk/images/website%20(8%20of%209).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://905games.tk/images/website%20(2%20of%209).jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://905games.tk/images/website%20(1%20of%209).jpg</image:loc>
