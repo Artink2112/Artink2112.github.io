@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524677279485">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524677650094">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
     <file name="index.css" crc="4277608962" ref="index"/>
@@ -84,5 +84,5 @@
     </folder>
     <file name="index.html" crc="98156218" seo="true" mt="1524541386434" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3950138010" seo="true" mt="1524677248494" redirect="true"/>
+  <file name="index.html" crc="478647630" seo="true" mt="1524677576712" redirect="true"/>
 </manifest>
