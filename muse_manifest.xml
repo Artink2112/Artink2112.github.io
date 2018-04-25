@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524677650094">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524678005014">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="4277608962" ref="index"/>
+    <file name="index.css" crc="4026909615" ref="index"/>
     <file name="iefonts_index.css" crc="4294636912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -70,19 +70,19 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="master_a-master.css" crc="4153207854" ref="tablet>index"/>
+      <file name="master_a-master.css" crc="136467284" ref="tablet>index"/>
       <file name="index.css" crc="112549368" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4173076154" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="3773013108" seo="true" mt="1524541593974" redirect="true"/>
+    <file name="index.html" crc="31330712" seo="true" mt="1524541593974" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3778637138" ref="phone>index"/>
+      <file name="master_a-master.css" crc="186418025" ref="phone>index"/>
       <file name="index.css" crc="3850084689" ref="phone>index"/>
       <file name="iefonts_index.css" crc="428872919" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="98156218" seo="true" mt="1524541386434" redirect="true"/>
+    <file name="index.html" crc="449566111" seo="true" mt="1524541386434" redirect="true"/>
   </folder>
-  <file name="index.html" crc="478647630" seo="true" mt="1524677576712" redirect="true"/>
+  <file name="index.html" crc="253119538" seo="true" mt="1524677953540" redirect="true"/>
 </manifest>
