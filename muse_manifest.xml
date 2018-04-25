@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524676688701">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="905games.tk" resolutions="1x" timestamp="1524677279485">
   <folder name="css">
     <file name="site_global.css" crc="96963117"/>
-    <file name="index.css" crc="29829744" ref="index"/>
+    <file name="index.css" crc="4277608962" ref="index"/>
     <file name="iefonts_index.css" crc="4294636912" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -22,13 +22,16 @@
     <file name="website (7 of 9)380x285.jpg" crc="4217329462" seo="true" ref="phone>index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="website (8 of 9).jpg" crc="81178108" seo="true" ref="tablet>index:index">
+    <file name="website (8 of 9).jpg" crc="496339151" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="website (2 of 9)767x576.jpg" crc="525684773" seo="true" ref="tablet>index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="website (7 of 9)767x576.jpg" crc="208298258" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="website (8 of 9)2.jpg" crc="81178108" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="website (2 of 9).jpg" crc="449031790" seo="true" ref="index">
@@ -46,10 +49,10 @@
     <file name="website (1 of 9).jpg" crc="4269273451" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="snapchat-1507958622.jpg" crc="483679769" seo="true" ref="index">
+    <file name="screenshot_20180423-225248.jpg" crc="233910361" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screenshot_20180423-225248.jpg" crc="233910361" seo="true" ref="index">
+    <file name="snapchat-1507958622.jpg" crc="483679769" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="website (4 of 9).jpg" crc="4236914205" seo="true" ref="index">
@@ -71,7 +74,7 @@
       <file name="index.css" crc="112549368" ref="tablet>index"/>
       <file name="iefonts_index.css" crc="4173076154" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="256037285" seo="true" mt="1524541593974" redirect="true"/>
+    <file name="index.html" crc="3773013108" seo="true" mt="1524541593974" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -79,7 +82,7 @@
       <file name="index.css" crc="3850084689" ref="phone>index"/>
       <file name="iefonts_index.css" crc="428872919" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3921248837" seo="true" mt="1524541386434" redirect="true"/>
+    <file name="index.html" crc="98156218" seo="true" mt="1524541386434" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3874530824" seo="true" mt="1524676657665" redirect="true"/>
+  <file name="index.html" crc="3950138010" seo="true" mt="1524677248494" redirect="true"/>
 </manifest>
