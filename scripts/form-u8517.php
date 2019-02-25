@@ -30,47 +30,8 @@ $form = array(
 		'from' => '905games2112@gmail.com',
 		'to' => '905games2112@gmail.com'
 	),
-	'recaptcha2' => array(
-		'private_key' => 'yes'
-	),
 	'fields' => array(
-		'custom_U8519' => array(
-			'order' => 1,
-			'type' => 'string',
-			'label' => 'Name',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Name\' is required.'
-			)
-		),
-		'Email' => array(
-			'order' => 2,
-			'type' => 'email',
-			'label' => 'Email',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Email\' is required.',
-				'format' => 'Field \'Email\' has an invalid email.'
-			)
-		),
-		'custom_U8529' => array(
-			'order' => 3,
-			'type' => 'string',
-			'label' => 'Message',
-			'required' => false,
-			'errors' => array(
-			)
-		),
-		'g-recaptcha-response' => array(
-			'order' => 4,
-			'type' => 'recaptcha2',
-			'label' => 'Image Verification',
-			'required' => true,
-			'errors' => array(
-				'required' => 'Field \'Image Verification\' is required.',
-				'format' => 'Incorrect reCAPTCHA 2.0 value.'
-			)
-		)
+
 	)
 );
 
